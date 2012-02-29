@@ -56,5 +56,4 @@ public class Screen extends Bitmap {
 		{350, 480, 600, 768,864, 720, 800, 1024, 768, 1050, 900, 900, 1050, 1080, 1200, 1440, 1600};
 		super.Screen(screenWidth[width],screenHeight[height]);
 	}
-	}
 }
